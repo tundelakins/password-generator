@@ -1,4 +1,4 @@
-<h1>Simple Password Generator Application<h1>
+SIMPLE PASSWORD GENERATOR APPLICATION
 
 This is a simple password generator application that helps you generate strong and secure passwords quickly. With this application, you can easily create unique passwords that are difficult to guess, ensuring the safety of your online accounts.
 
